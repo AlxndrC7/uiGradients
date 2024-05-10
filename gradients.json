@@ -1,5 +1,21 @@
 [
     {
+      "name":"Binex",
+      "colors":["#9f1c38", "#bdc3c7"]
+    },
+    {
+       "name":"Binex2",
+       "colors":["#bdc3c7","#9f1c38"]
+    },
+    {
+      "name":"Binex3",
+      "colors":["#9f1c38","#2c3e50","#bdc3c7"]
+    },
+    {
+      "name":"Binex4",
+      "colors":["#bdc3c7","#2c3e50","#9f1c38"]
+    },
+    {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
